@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6w0037/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 卷, offset: 0, content: 卷第一本, id: KR6w0037_D_000-mulu-1, 'n': 1a}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唯識義
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D37/D37n8896.xml
+    old_id: D37n8896
+hash: sha256:c4c6d3f9c8259587dbbcc76c223fb59501525b610a7a935e2f881017f80c753c

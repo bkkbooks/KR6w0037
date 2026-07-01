@@ -1,0 +1,340 @@
+canonical_identifier: bkk:krp/KR6w0037/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0037/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唯識義
+  identifiers:
+    krp: KR6w0037
+    cbeta: D37n8896
+    cbeta_old_id: D37n8896
+    authorityid: CA0008036
+    json_key: D8896
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D37/D37n8896.xml
+    old_id: D37n8896
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0037_000-D.yaml, hash: 'sha256:c4c6d3f9c8259587dbbcc76c223fb59501525b610a7a935e2f881017f80c753c'}
+  - {seq: 2, filename: KR6w0037_002-D.yaml, hash: 'sha256:6b046ef332b4f2888330e28d7fe07ab1dac650f5f167e1215237185748f52022'}
+  - {seq: 3, filename: KR6w0037_003-D.yaml, hash: 'sha256:7bee706544676cef6ba46626191c4c70f7d077102d089ea5ab4695ac363fdaa8'}
+  - {seq: 4, filename: KR6w0037_004-D.yaml, hash: 'sha256:50a6e4047fb08d131ade43b82a7cc103787ef742ba51d3e5cee2b93f7597decf'}
+  - {seq: 5, filename: KR6w0037_005-D.yaml, hash: 'sha256:0cbfd5ccccc0dc4aee938b0092fa3f581a4719213e6bb1f95f03a8c2d49abf68'}
+  - {seq: 6, filename: KR6w0037_006-D.yaml, hash: 'sha256:a003ab01680a608b34e7a542712f908de858eff6a78a75950da857dd46cdf658'}
+  - {seq: 7, filename: KR6w0037_007-D.yaml, hash: 'sha256:a3fbfc8d045498e206929df4b865eb0cc3c4e62511423cfa3d51311560af8571'}
+  - {seq: 8, filename: KR6w0037_008-D.yaml, hash: 'sha256:659daa3b65d7f61fde514f3f43bf3b4a05aedf09f92fbd1adfbbb9a35499263e'}
+  - {seq: 9, filename: KR6w0037_009-D.yaml, hash: 'sha256:6e8f4dbe7fe9c9f6ecd7bf03d0b8295dc51fb13fa94487ecf56b6df645a85846'}
+  - {seq: 10, filename: KR6w0037_010-D.yaml, hash: 'sha256:32fcff14df093fd42476f81681811a4c7c39df6a0c50f167d6ef2fcaaca33e2d'}
+  - {seq: 11, filename: KR6w0037_011-D.yaml, hash: 'sha256:33980f0eee13890d0b8da5253c44adc1a93407c319b225bc68139073325b7547'}
+  - {seq: 12, filename: KR6w0037_012-D.yaml, hash: 'sha256:549aa65179b7e588fa3def737b70b7270c537be29e3790fec8950841ec91f767'}
+  - {seq: 13, filename: KR6w0037_013-D.yaml, hash: 'sha256:92f30e9ed8194e63d522189f6fb6d104860b63be4a7dcc55fc84e846aa9b318e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0037_000-D.markers.yaml, hash: 'sha256:29ca2eb09008006f9bedb6045a28922dcaab57d00965bd6ede50a16f23d45604'}
+  - {seq: 2, role: markers, filename: assets/KR6w0037_002-D.markers.yaml, hash: 'sha256:a10a025aabbff01288770c258564d9a92637f0491cac6cff5b3e4f69086474d3'}
+  - {seq: 3, role: markers, filename: assets/KR6w0037_003-D.markers.yaml, hash: 'sha256:827c8872df205a32a212f8286af1d0db18443ac92b2a2723d87993758150558b'}
+  - {seq: 4, role: markers, filename: assets/KR6w0037_004-D.markers.yaml, hash: 'sha256:dc6c4dced6e393bc983395ef35eb5540959689acab2bcd5df3d0a32d48f3af45'}
+  - {seq: 5, role: markers, filename: assets/KR6w0037_005-D.markers.yaml, hash: 'sha256:1b7dcc7232fe87ae03c639954886b2291d6428e5bf79fadbe07e6e6460336bcf'}
+  - {seq: 6, role: markers, filename: assets/KR6w0037_006-D.markers.yaml, hash: 'sha256:33814c97ab84410f2cbb68d9eb269e88ebac3489e6e3f17f8c36bc578c632839'}
+  - {seq: 7, role: markers, filename: assets/KR6w0037_007-D.markers.yaml, hash: 'sha256:92ee0c750bd60b913da95f507d7c83a2fed020c7bc8638496aabe5ba39caa30c'}
+  - {seq: 8, role: markers, filename: assets/KR6w0037_008-D.markers.yaml, hash: 'sha256:ea2d5fff0c03f88a3e7d6a449e0b3ceec2af7ddaf324f68f1cd5c5646cb01273'}
+  - {seq: 9, role: markers, filename: assets/KR6w0037_009-D.markers.yaml, hash: 'sha256:0e6730b1050403c1008a89af15dca7d986c064c63498c9623fb9188a7a2740dc'}
+  - {seq: 10, role: markers, filename: assets/KR6w0037_010-D.markers.yaml, hash: 'sha256:5d34342026030608b83494d7234a20a135669c1fcff720bdbb79992a27b66763'}
+  - {seq: 11, role: markers, filename: assets/KR6w0037_011-D.markers.yaml, hash: 'sha256:7fa0f50dcae2d1b535ec0572edd3efce3f144cb49fcd62a70f29ff3af8eefb06'}
+  - {seq: 12, role: markers, filename: assets/KR6w0037_012-D.markers.yaml, hash: 'sha256:ad304e3cd1ad5cf659f9bf5340608b830ee5134c403deaf2b5a3413746433561'}
+  - {seq: 13, role: markers, filename: assets/KR6w0037_013-D.markers.yaml, hash: 'sha256:7cf0df0d8668a736c7b7eaff9777f8f349e892a1a22890277b2572bd0efbf3bb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0037_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 卷第一本
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0037_D_1a-juan-start
+    span:
+    - body
+    - 0
+    - 11009
+  label: 唯識義卷第一本
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0037_D_1a-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 十門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0037_D_1a-mulu-2
+    span:
+    - body
+    - 220
+    - 220
+  label: 第一出躰門
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0037_D_1b-juan-start
+    span:
+    - body
+    - 0
+    - 11134
+  label: 唯識義卷第一末
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0037_D_1b-mulu-1
+    span:
+    - body
+    - 11134
+    - 11134
+  label: 卷第二本
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0037_D_2a-juan-start
+    span:
+    - body
+    - 0
+    - 13966
+  label: 唯識義卷第二本
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0037_D_2b-juan-start
+    span:
+    - body
+    - 0
+    - 7741
+  label: 唯識義卷第二末
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0037_D_2b-mulu-1
+    span:
+    - body
+    - 7741
+    - 7741
+  label: 卷第三本
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0037_D_3a-juan-start
+    span:
+    - body
+    - 0
+    - 13048
+  label: 唯識義卷第三之本
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0037_D_3b-juan-start
+    span:
+    - body
+    - 0
+    - 10267
+  label: 唯識義卷第三之末
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0037_D_3b-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 第二辨名門
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0037_D_3b-mulu-2
+    span:
+    - body
+    - 4043
+    - 4043
+  label: 第三離合會釋門
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0037_D_3b-mulu-3
+    span:
+    - body
+    - 10267
+    - 10267
+  label: 卷第四本
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0037_D_4a-juan-start
+    span:
+    - body
+    - 0
+    - 12224
+  label: 唯識義卷第四之本
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0037_D_4b-juan-start
+    span:
+    - body
+    - 0
+    - 13505
+  label: 唯識義章卷之四末
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0037_D_4b-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 第四何識為觀門
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0037_D_4b-mulu-2
+    span:
+    - body
+    - 2717
+    - 2717
+  label: 第五顕類差別門
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0037_D_4b-mulu-3
+    span:
+    - body
+    - 13505
+    - 13505
+  label: 卷第五本
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0037_D_5a-juan-start
+    span:
+    - body
+    - 0
+    - 15911
+  label: 唯識義卷第五本
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0037_D_5a-mulu-1
+    span:
+    - body
+    - 5248
+    - 5248
+  label: 第六修證位次門
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0037_D_5b-juan-start
+    span:
+    - body
+    - 0
+    - 16226
+  label: 唯識義卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0037_D_5b-mulu-1
+    span:
+    - body
+    - 11602
+    - 11602
+  label: 第七觀法何性門
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0037_D_5b-mulu-2
+    span:
+    - body
+    - 14415
+    - 14415
+  label: 第八諸地依起門
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0037_D_5b-mulu-3
+    span:
+    - body
+    - 16226
+    - 16226
+  label: 卷第六本
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6w0037_D_6a-juan-start
+    span:
+    - body
+    - 0
+    - 15902
+  label: 唯識義卷第六本
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6w0037_D_6a-mulu-1
+    span:
+    - body
+    - 8519
+    - 8519
+  label: 第九斷諸障染門
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6w0037_D_6b-juan-start
+    span:
+    - body
+    - 0
+    - 16734
+  label: 唯識義卷第六末
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6w0037_D_6b-mulu-1
+    span:
+    - body
+    - 12184
+    - 12184
+  label: 第十歸攝二空門
+  type: mulu
+  level: 1
+hash: sha256:65ae6f21c82e3165bc60e64984fc4a1febe3bf64802c6617777bd8e8e2b89200
